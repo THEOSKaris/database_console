@@ -23,7 +23,7 @@ include-package-data = true
 include = ["database_console*"]
 
 [tool.bench.frappe-dependencies]
-frappe = ">=14.0.0"
+frappe = ">=14.0.0,<16.0.0"
 
 [tool.ruff]
 line-length = 110
