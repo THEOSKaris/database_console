@@ -8,7 +8,7 @@ app_icon = "octicon octicon-file-directory"
 app_color = "grey"
 app_email = "mymi14s@hotmail.com"
 app_license = "MIT"
-app_version = "1.0.0"
+
 
 # Includes in <head>
 # ------------------
